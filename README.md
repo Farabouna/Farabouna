@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Enzyme Engineering
+- 🔭 I’m currently working on Protein Design
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on machine learning/deep learning for protein design
 - 🤔 I’m looking for help with code
